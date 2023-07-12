@@ -2,7 +2,7 @@
 
 A calculator written in Rust using [iced](https://github.com/iced-rs/iced) GUI library.
 
-todo: screnshots here...
+![](https://github.com/osennij-morok/juodas-calc/blob/master/for-readme/juodas-calc-demo1.gif)
 
 # Requirements
 
