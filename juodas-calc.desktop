@@ -1,0 +1,11 @@
+[Desktop Entry]
+
+Type=Application
+Version=1.5
+Name=juodas-calc
+Comment=Simple calculator
+Path=/usr/bin
+Exec=juodas-calc
+Icon=juodas-calc
+Terminal=false
+Categories=Utility
